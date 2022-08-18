@@ -1,0 +1,27 @@
+p{
+    color: brown;
+    font-size: 32px;
+    background-color: rgb(7, 168, 28);
+    text-align: center;
+}
+h1{
+    border: 2px solid rgb(1, 250, 134);
+}
+.grey {
+    color:blueviolet;
+    border: 20px solid red;
+    background-color: rgb(230, 136, 13);
+}
+/*.highlight {
+    background-color: rgb(136, 127, 255);
+}/*
+/*#highlight1 {
+    background-color: chartreuse;
+}*/
+*{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: beige;
+    border-bottom-left-radius: 80px;
+}
